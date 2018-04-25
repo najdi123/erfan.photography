@@ -195,7 +195,7 @@ class GraphicDesign extends Component {
                                     </div>
                                 </div>
                                 </Link>
-                                <p >Clothing Photography Album</p>
+                                <p >Industrial Photography</p>
                             </div>
                         </Fade>
                         <Fade bottom>
@@ -208,7 +208,7 @@ class GraphicDesign extends Component {
                                         </div>
                                     </div>
                                 </div>
-                                <p >PNG Photography Album</p>
+                                <p >Restaurant space Photography </p>
                             </div>
                         </Fade>
                         <Fade bottom>
@@ -221,7 +221,7 @@ class GraphicDesign extends Component {
                                         </div>
                                     </div>
                                 </div>
-                                <p >PNG Food Photography Album</p>
+                                <p >Aerial Photography and Filming</p>
                             </div>
                         </Fade>
                         <Fade bottom>
@@ -230,11 +230,11 @@ class GraphicDesign extends Component {
                                     <img className="img__img" src={p10} alt="" />
                                     <div className="img__description">
                                         <div className="m-center">
-                                            Content goes here
+                                            <h5>This album includes photos of out-door modeling, clothing and accesories</h5>
                                         </div>
                                     </div>
                                 </div>
-                                <p >Clothing Photography Album</p>
+                                <p >Clothing/Modeling indoor Photography Album</p>
                             </div>
                         </Fade>
                         <Fade bottom>
@@ -243,11 +243,11 @@ class GraphicDesign extends Component {
                                     <img className="img__img" src={p12} alt="" />
                                     <div className="img__description">
                                         <div className="m-center">
-                                            Content goes here
+                                            <h5>This album includes photos of out-door modeling, clothing and accesories</h5>
                                         </div>
                                     </div>
                                 </div>
-                                <p >Vehicle Photography Album</p>
+                                <p >Clothing/Modeling outdoor Photography Album</p>
                             </div>
                         </Fade>
                         <Fade bottom>
@@ -262,7 +262,7 @@ class GraphicDesign extends Component {
                                     </div>
                                 </div>
                                 </Link>
-                                <p >Industrial Photography Album</p>
+                                <p >Interior Design Photography Album</p>
                             </div>
                         </Fade>
                     </section>
